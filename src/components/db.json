@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": "301.30628405983106",
+      "title": "Sudhanshu",
+      "body": "Sharma",
+      "userId": 962.3385960288501
+    },
+    {
+      "id": "497.9584436305209",
+      "title": "Sudhanshu",
+      "body": "Sharma",
+      "userId": 616.2260337631618
+    },
+    {
+      "id": "981.1242910610754",
+      "title": "",
+      "body": "",
+      "userId": 199.85455824667264
+    },
+    {
+      "id": "100.36563430091961",
+      "title": "",
+      "body": "",
+      "userId": 900.6599043032069
+    },
+    {
+      "id": "821.3150034369288",
+      "title": "",
+      "body": "",
+      "userId": 106.40650092277748
+    },
+    {
+      "id": "842.7504322727333",
+      "title": "Testing",
+      "body": "Json",
+      "userId": 707.4274501310347
+    },
+    {
+      "id": "263.5454184327648",
+      "title": "New ",
+      "body": "Test",
+      "userId": 820.1198707205255
+    },
+    {
+      "id": 801.0942662697203,
+      "title": "Raman",
+      "body": "Ji",
+      "userId": 238.67245973443607
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
